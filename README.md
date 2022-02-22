@@ -58,8 +58,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DuncantheeDuncan&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuncantheeDuncan&langs_count=20&layout=compact&theme=vision-friendly-dark)](https://github.com/DuncantheeDuncan/github-readme-stats)
 
-
+<div>
+  <p>Code wars: </p>
 <img src="https://www.codewars.com/users/DuncantheeDuncan/badges/large" title="codewars" alt="codewars" />
+</div>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Phumlani&layout=compact)](https://github.com/DuncantheeDuncan/github-readme-stats)
 
