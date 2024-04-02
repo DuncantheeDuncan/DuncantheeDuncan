@@ -55,9 +55,11 @@
 
 
 
-
-
 ### :fire: My Stats :
+
+![Ovarall Timeline](https://wakatime.com/share/@Phumlani/2ba147bd-b51a-4d8c-91a1-2d727063dccf.svg)
+
+
 
 ## Wakatime Timeline
 ![Your WakaTime Chart](https://wakatime.com/share/@Phumlani/c3b3c513-24da-4612-87ea-984f62c5f839.svg)
