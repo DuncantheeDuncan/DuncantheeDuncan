@@ -64,7 +64,8 @@
 ## Wakatime Timeline
 ![Your WakaTime Chart](https://wakatime.com/share/@Phumlani/c3b3c513-24da-4612-87ea-984f62c5f839.svg)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DuncantheeDuncan&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuncantheeDuncan&langs_count=20&layout=compact&theme=vision-friendly-dark)](https://github.com/DuncantheeDuncan/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DuncantheeDuncan&theme=dark&background=000000)](https://git.io/streak-stats) 
+
 
 <div>
   <p>Code wars: </p>
